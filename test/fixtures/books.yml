@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  isbn: MyString
+  price: 1
+  publish: MyString
+  publeished: MyString
+
+two:
+  isbn: MyString
+  price: 1
+  publish: MyString
+  publeished: MyString
